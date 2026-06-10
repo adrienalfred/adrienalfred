@@ -46,8 +46,8 @@ Based in **Abidjan, Côte d'Ivoire** — working remotely worldwide.
 ## 📫 Contact
 
 - 💼 Malt : *(bientôt)*
-- 🔗 LinkedIn : *(bientôt)*
-- 📧 Email : *(ton email)*
+- 🔗 LinkedIn : *https://www.linkedin.com/in/adloeboi/*
+- 📧 Email : *adrien237eboi@gmail.com*
 
 ---
 
