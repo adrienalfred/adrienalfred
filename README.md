@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi, I'm Adrien 👋🐧
 
-<!--
-**adrienalfred/adrienalfred** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Linux Systems Administrator** with 8 years of hands-on experience in enterprise environments.
 
-Here are some ideas to get you started:
+Based in **Abidjan, Côte d'Ivoire** — working remotely worldwide.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ What I Do
+
+**System Administration**
+- User & access management
+- Server configuration, hardening & maintenance
+- Incident troubleshooting & log analysis
+- Backup monitoring & disaster recovery
+
+**Virtualization**
+- VMware ESXi & vSphere
+- VM lifecycle management
+- Storage extension & capacity planning
+
+**Storage**
+- SAN/NAS storage management
+- Datastore mapping to ESXi hosts
+- Storage performance monitoring
+
+---
+
+## 🔭 Currently Learning
+
+- Linux Kernel development
+- Systems programming in C
+- Low-level performance optimization
+
+---
+
+## 🤝 Open To
+
+- Remote freelance missions
+- Linux infrastructure projects
+- Server security audits
+- Troubleshooting & incident response
+
+---
+
+## 📫 Contact
+
+- 💼 Malt : *(bientôt)*
+- 🔗 LinkedIn : *(bientôt)*
+- 📧 Email : *(ton email)*
+
+---
+
+*"I read logs where others see noise."* 🔧
