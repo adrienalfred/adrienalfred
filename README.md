@@ -1,8 +1,22 @@
 # Hi, I'm Adrien 👋🐧
 
-**Linux Systems Administrator** with 8 years of hands-on experience in enterprise environments.
-
+**Senior Linux Systems Administrator** with 8 years of hands-on experience in enterprise environments.
 Based in **Abidjan, Côte d'Ivoire** — working remotely worldwide.
+
+---
+
+## 🏆 Certifications
+
+| Certification | Issuer | Valid Until |
+|---|---|---|
+| Dell PowerEdge Foundations 2023 | Dell Technologies | — |
+| Dell PowerEdge Operate 2023 | Dell Technologies | — |
+| Dell PowerVault ME5 Achievement | Dell Technologies | — |
+| Nutanix Accredited Professional – Infrastructure | Nutanix | Sep 2028 |
+| Nutanix Certified Sales Representative | Nutanix | Sep 2028 |
+| Nutanix Sizing Professional | Nutanix | Sep 2028 |
+
+---
 
 ## 🚀 Featured Project
 
@@ -29,15 +43,21 @@ No daemon, no dependencies, single binary of 3.4MB.
 - Incident troubleshooting & log analysis
 - Backup monitoring & disaster recovery
 
-**Virtualization**
+**Enterprise Infrastructure**
+- Dell PowerEdge server administration
+- Nutanix hyperconverged infrastructure
 - VMware ESXi & vSphere
 - VM lifecycle management
-- Storage extension & capacity planning
 
 **Storage**
-- SAN/NAS storage management
+- Dell PowerVault ME5 & SAN/NAS management
 - Datastore mapping to ESXi hosts
-- Storage performance monitoring
+- Storage extension & capacity planning
+
+**Systems Programming**
+- Linux namespaces & cgroups v2
+- Systems programming in Go
+- Linux kernel internals
 
 ---
 
@@ -55,14 +75,15 @@ No daemon, no dependencies, single binary of 3.4MB.
 - Linux infrastructure projects
 - Server security audits
 - Troubleshooting & incident response
+- Systems programming projects
 
 ---
 
 ## 📫 Contact
 
-- 💼 Malt : *(bientôt)*
-- 🔗 LinkedIn : *https://www.linkedin.com/in/adloeboi/*
-- 📧 Email : *adrien237eboi@gmail.com*
+- 💼 Upwork : *(lien)*
+- 🔗 LinkedIn : *(bientôt)*
+- 📧 Email : *(ton email)*
 
 ---
 
