@@ -81,9 +81,9 @@ No daemon, no dependencies, single binary of 3.4MB.
 
 ## 📫 Contact
 
-- 💼 Upwork : *(lien)*
-- 🔗 LinkedIn : *(bientôt)*
-- 📧 Email : *(ton email)*
+- 💼 Upwork : *https://www.upwork.com/freelancers/~0133dff3a14bebbd22?viewMode=1*
+- 🔗 LinkedIn : *https://www.linkedin.com/in/adloeboi/*
+- 📧 Email : *adrien237eboi@gmail.com*
 
 ---
 
