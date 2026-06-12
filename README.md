@@ -32,6 +32,9 @@ No daemon, no dependencies, single binary of 3.4MB.
 | Dependencies | 0 | Many |
 
 > Built with Linux namespaces, cgroups v2, and Go — from scratch.
+>
+> ### [xibo-docker-deployment](https://github.com/adrienalfred/xibo-docker-deployment)
+Production-ready Xibo CMS deployment — Docker, Nginx, UFW, SSL on Ubuntu 24.04
 
 ---
 
