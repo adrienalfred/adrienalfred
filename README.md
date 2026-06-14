@@ -37,7 +37,7 @@ No daemon, no dependencies, single binary of 3.4MB.
 Production-ready Xibo Digital Signage CMS deployment — Docker Compose, Nginx reverse proxy, SSL, UFW firewall, automated backups.
 
 ### [nextcloud-docker-deployment](https://github.com/adrienalfred/nextcloud-docker-deployment)
-Self-hosted Nextcloud + PostgreSQL deployment — Docker, user/group management, shared folders with permissions, document versioning.
+Complete self-hosted infrastructure stack — Nextcloud + PostgreSQL (document management), MinIO (S3-compatible object storage), and Prometheus/Grafana monitoring, all via Docker Compose.
 
 ### [mail-server-troubleshooting-guide](https://github.com/adrienalfred/mail-server-troubleshooting-guide)
 Practical reference for diagnosing email delivery issues — Postfix, DNS (SPF/DKIM/DMARC), DSN codes, cPanel/Bluehost equivalents.
