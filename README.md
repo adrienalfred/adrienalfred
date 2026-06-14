@@ -18,7 +18,7 @@ Based in **Abidjan, Côte d'Ivoire** — working remotely worldwide.
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 ### [conteneur-lite](https://github.com/adrienalfred/conteneur-lite)
 Lightweight container runtime built on Linux primitives — written in Go.
@@ -32,9 +32,15 @@ No daemon, no dependencies, single binary of 3.4MB.
 | Dependencies | 0 | Many |
 
 > Built with Linux namespaces, cgroups v2, and Go — from scratch.
->
-> ### [xibo-docker-deployment](https://github.com/adrienalfred/xibo-docker-deployment)
-Production-ready Xibo CMS deployment — Docker, Nginx, UFW, SSL on Ubuntu 24.04
+
+### [xibo-docker-deployment](https://github.com/adrienalfred/xibo-docker-deployment)
+Production-ready Xibo Digital Signage CMS deployment — Docker Compose, Nginx reverse proxy, SSL, UFW firewall, automated backups.
+
+### [nextcloud-docker-deployment](https://github.com/adrienalfred/nextcloud-docker-deployment)
+Self-hosted Nextcloud + PostgreSQL deployment — Docker, user/group management, shared folders with permissions, document versioning.
+
+### [mail-server-troubleshooting-guide](https://github.com/adrienalfred/mail-server-troubleshooting-guide)
+Practical reference for diagnosing email delivery issues — Postfix, DNS (SPF/DKIM/DMARC), DSN codes, cPanel/Bluehost equivalents.
 
 ---
 
@@ -52,6 +58,12 @@ Production-ready Xibo CMS deployment — Docker, Nginx, UFW, SSL on Ubuntu 24.04
 - VMware ESXi & vSphere
 - VM lifecycle management
 
+**Self-Hosted Services**
+- Docker & Docker Compose deployments
+- Nginx reverse proxy & SSL (Let's Encrypt)
+- Nextcloud, Xibo CMS, and similar production deployments
+- PostgreSQL / MySQL / MariaDB administration
+
 **Storage**
 - Dell PowerVault ME5 & SAN/NAS management
 - Datastore mapping to ESXi hosts
@@ -68,7 +80,7 @@ Production-ready Xibo CMS deployment — Docker, Nginx, UFW, SSL on Ubuntu 24.04
 
 - Linux Kernel development
 - Systems programming in C
-- Low-level performance optimization
+- Terraform & cloud infrastructure (AWS/LocalStack)
 
 ---
 
@@ -76,17 +88,17 @@ Production-ready Xibo CMS deployment — Docker, Nginx, UFW, SSL on Ubuntu 24.04
 
 - Remote freelance missions
 - Linux infrastructure projects
+- Self-hosted platform deployments (Nextcloud, Xibo, etc.)
 - Server security audits
 - Troubleshooting & incident response
-- Systems programming projects
 
 ---
 
 ## 📫 Contact
 
-- 💼 Upwork : *https://www.upwork.com/freelancers/~0133dff3a14bebbd22?viewMode=1*
-- 🔗 LinkedIn : *https://www.linkedin.com/in/adloeboi/*
-- 📧 Email : *adrien237eboi@gmail.com*
+- 💼 Upwork : [Adrien Alfred E.](https://www.upwork.com/freelancers/~0133dff3a14bebbd22?viewMode=1)
+- 🔗 LinkedIn : [adloeboi](https://www.linkedin.com/in/adloeboi)
+- 📧 Email : adrien237eboi@gmail.com
 
 ---
 
